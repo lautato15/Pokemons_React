@@ -4,7 +4,6 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import Pokemons from "./components/Pokemons";
 import pokemonsList from "./assets/pokemons";
-// Test
 function App() {
   return (
     <>
