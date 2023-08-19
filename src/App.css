@@ -1,0 +1,12 @@
+.my-card {
+  width: 200px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(220, 220, 220);
+}
+.my-card h5 {
+  color: rgb(0, 94, 202);
+}
